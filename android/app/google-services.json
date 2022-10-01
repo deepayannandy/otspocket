@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "983713959867",
+    "project_id": "ots-project2",
+    "storage_bucket": "ots-project2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983713959867:android:e90ee96c0e98dbadb93e9e",
+        "android_client_info": {
+          "package_name": "in.dnyindia.otspocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983713959867-qs97o9ck3uj1qfvs1aricrnnbeemoj9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxOkg9G8FWxIkjQnWppGTnLg_GoXBKNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983713959867-qs97o9ck3uj1qfvs1aricrnnbeemoj9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

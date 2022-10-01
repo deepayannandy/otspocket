@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701374188605",
+    "project_id": "ots-pocket",
+    "storage_bucket": "ots-pocket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701374188605:android:28a2930c24a66b8418ae54",
+        "android_client_info": {
+          "package_name": "in.dnyindia.otspocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701374188605-80nhlu8le5ugr2o09399b1jj0gvr2n5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZo91TgS4I2fcGBZXNIaJ62HNYi3NCNws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701374188605-80nhlu8le5ugr2o09399b1jj0gvr2n5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
